@@ -1,0 +1,18 @@
+# ===== 公開しないもの =====
+# 内部資料・ソース素材（パンフレット原本・構成案・計画書など）
+pdf-pages/
+pdf-previews/
+*.pdf
+
+# 開発用スクリーンショット
+desktop.png
+mobile.png
+
+# サイトで未使用の大きな素材
+assets/hero-campus.png
+assets/rd-cover.png
+
+# OS / エディタ
+.DS_Store
+Thumbs.db
+*.log
